@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This project has moved.** `UltimateDarkTowerCreator` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `apps/creator`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tags prefixed `creator-*`).
+>
+> Live demo: https://chessmess.github.io/UltimateDarkTower/creator/
+
 <h1 align="center">Ultimate Dark Tower Creator &amp; Player</h1>
 
 <p align="center">
